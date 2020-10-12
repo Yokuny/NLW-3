@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    font-size: 62.5%;
+    /*100% = a 16px . 62.5% = 10px o tamanho das fonts padrões*/
+    /*Necessari colocar em % para o rem*/
+}
+html, body{
+    height: 100vh;
+    color: white;
+}
